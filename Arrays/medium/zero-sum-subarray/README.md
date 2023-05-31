@@ -33,3 +33,5 @@ After recording all sums from [0, i], what would it mean if a sum is repeated?
 ## Optimal Space & Time Complexity
 
 O(n) time | O(n) space - where n is the length of nums
+
+https://notability.com/n/0n7Y2jisp1Ndra2RZdGSq6
